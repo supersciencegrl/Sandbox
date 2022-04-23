@@ -1,6 +1,4 @@
 # Sandbox
-
-### Readme
 This repo exists for me to just learn and play around with code, and store little snippets. 
 
 ### SQL
