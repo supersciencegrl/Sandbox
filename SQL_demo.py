@@ -1,13 +1,4 @@
-''' 1) Identify primary keys, foreign keys, relationships
-	2) SQL Select statement, order by clause, column aliases
-	3) SQL conditions & where clause
-	4) SQL arithmetic operations, expression queries, case-when-then
-	5) Challenge
-	'''
-
-#import random
 import sqlite3
-#import pandas as pd
 
 class dbfunctions():
     def printSQL(self, sql):
